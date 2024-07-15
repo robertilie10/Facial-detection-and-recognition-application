@@ -1,1 +1,4 @@
 # Facial-detection-and-recognition-application
+This project was my thesis work for the faculty I successfully graduated from, earning a grade of 8.75. In this project, I created an application for human face detection from images, videos, and live video (using a webcam). The application was developed using various technologies: Python, Keras, TensorFlow, OpenCV, and Tkinter. The dataset consists of 6,000 positive images (human faces) and 6,000 negative images (cats, dogs, airplanes, cars, fruits, etc.). For face recognition, I used Convolutional Neural Networks (CNN). After training and testing the model, I saved it in a .h5 file and loaded it into the 'interfata.py' script, where I created the graphical interface and the functionality of the application. The documentation is attached in the GitHub repository.
+main2.py - model, training, evaluating
+interfata.py - GUI
